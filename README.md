@@ -1,4 +1,8 @@
-#Back cover for the Isetta-TTL Hammond RM2055S housing
+You can find this great project here:
+
+https://hackaday.io/project/190345-isetta-ttl-computer
+
+# Back cover for the Isetta-TTL Hammond RM2055S housing
 
 I created the backplane with FreeCAD 1.0.1 and printed it on the 3D printer Geeetech A20.
 
